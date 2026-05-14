@@ -13,3 +13,4 @@ jobs:
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: hgritty  # 这里补上你的用户名！就是报错缺的这一行
