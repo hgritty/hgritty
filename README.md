@@ -5,10 +5,10 @@
 
 ## My GitHub Stats
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=hgritty&show_icons=true&theme=white&hide_border=true" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hgritty&layout=donut&hide_border=true" width="47%" />
+  <img src="https://stats-github-readme.vercel.app/api?username=hgritty&show_icons=true&theme=white&hide_border=true" width="47%" />
+  <img src="https://stats-github-readme.vercel.app/api/top-langs/?username=hgritty&layout=donut&hide_border=true" width="47%" />
 </div>
 
 <br>
 
-![3D Profile](profile-3d-contrib/profile-3d.svg)
+![3D Profile](profile-3d-contrib/profile-gitblock.svg)
