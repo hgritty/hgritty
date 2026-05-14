@@ -1,13 +1,15 @@
-name: profile-3d
-
+name: GitHub-Profile-3D-Contrib
 on:
+  schedule:
+    - cron: "0 18 * * *"
   workflow_dispatch:
-
-permissions: {}
-
+permissions:
+  contents: write
 jobs:
-  placeholder:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - name: Placeholder
-        run: echo "profile-3d workflow file created"
+      - uses: actions/checkout@v3
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
