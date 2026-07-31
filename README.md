@@ -4,11 +4,17 @@
 我是三墩镇技校的一名大三学生，major in 电科，之前喜欢玩fps，3a等游戏，现在佛系玩小游戏中。
 
 ## My GitHub Stats
-<div align="left">
+<!-- <div align="left">
   <img src="https://stats-github-readme.vercel.app/api?username=hgritty&show_icons=true&theme=white&hide_border=true" width="47%" />
   <img src="https://stats-github-readme.vercel.app/api/top-langs/?username=hgritty&layout=donut&hide_border=true" width="47%" />
 </div>
 
 <br>
 
-![3D Profile](profile-3d-contrib/profile-gitblock.svg)
+![3D Profile](profile-3d-contrib/profile-gitblock.svg) -->
+<!-- 支持明暗主题的贪吃蛇展示 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hgritty/hgritty/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hgritty/hgritty/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/hgritty/hgritty/output/github-snake.svg" />
+</picture>
